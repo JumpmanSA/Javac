@@ -2,7 +2,7 @@ public static void main( String [] args){
 
 public void Javac(){
 
-system.out.println("Hello World")
+system.out.println("Hello World");
 
 }
 }
