@@ -6,6 +6,7 @@ public class Hello_World {
 		
 		System.out.println("You know I'm a stoner stoner stniner");
 		System.out.println("You know I'm a loner loner loner  ");
+		System.out.println("You know I'm a loner loner loner  ");
 	}
 
 }
