@@ -1,6 +1,7 @@
-public static void main( String [] args){
-
 public void Javac(){
+
+
+public static void main( String [] args){
 
 system.out.println("Hello World");
 
